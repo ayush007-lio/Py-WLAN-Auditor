@@ -97,5 +97,6 @@
 
 Role: Cyber Security Researcher
 
-GitHub: @ayush007-lio
+GitHub: https://github.com/ayush007-lio
+
 
